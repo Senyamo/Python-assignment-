@@ -1,0 +1,6 @@
+Line 1: This is the first line.
+Line 2: The number is 42.
+Line 3: Python is great for file handling!
+Line 4: This line is appended to the file.
+Line 5: Appending more data is easy!
+Line 6: Final appended line.
